@@ -1,7 +1,8 @@
 # Page one
+[Go to page three](./index.html?page=page_three)
 
-## This is the headline of your first page
 
+## Welcome to my webiste
 This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
 
 Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
